@@ -1,10 +1,8 @@
 <div>
-
-<h1 align="center">
-Moncef Fenniche (Fenz)
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2000&pause=9999999999&color=22F700&center=true&width=435&height=64&lines=FENNICHE+MONCEF" alt="Typing SVG" /></p>
 <h3 align="center">
-Full-Stack Developer & Gamedev + Cybersec Hobbyist
+Full-Stack Developer • Gamedev & Cybersec Hobbyist
 </h3>
 
 ## About Me
@@ -83,15 +81,13 @@ Databases & Tools
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FenzDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenzDev&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FenzDev&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenzDev&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FenzDev&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=FenzDev&theme=vue-dark&hide_border=true" />
 </p>
-
-### Contribution Activity
 
 <p align="center">
   <a href="https://github.com/FenzDev">
